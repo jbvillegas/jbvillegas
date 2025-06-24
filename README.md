@@ -20,5 +20,5 @@ Welcome to my GitHub profile! I'm a passionate, self-driven learner originally f
 ## 📫 Connect with Me
 
 - 📧 villegasjoaco11@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/villegasjb)
+- 💼 [LinkedIn](https://www.linkedin.com/in/villegasjb/)
 - 🧠 Always open to learning, building, and collaborating!
