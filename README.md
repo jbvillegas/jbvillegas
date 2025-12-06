@@ -1,5 +1,5 @@
 ## Hello there! 👋🏻
-Software development & Cybersecurity student at Lander University.
+I'm Software development & Cybersecurity student at Lander University.
 CodePath Student.
 
 ## Technical Skills
@@ -25,6 +25,10 @@ CodePath Student.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### **Cybersecurity Tools**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 ## Connect with Me
 
