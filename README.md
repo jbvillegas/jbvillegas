@@ -1,5 +1,5 @@
 ## Hello there! 👋🏻
-I'm a Software Development & Cybersecurity student at Lander University.
+Software Engineer, Cybersecurity and AI.
 CodePath Student.
 
 ## Technical Skills
