@@ -10,7 +10,7 @@
 
 ---
 
-## 🐧 About Me
+## About Me
 
 I am a **Software Engineer with a strong focus on the intersection of Cybersecurity and AI/ML**, based in Vienna, Austria.
 
@@ -22,7 +22,7 @@ I recently completed my **B.Sc. in Computer Science (Summa Cum Laude)** with a C
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 Core technology areas:
 
@@ -76,7 +76,7 @@ Core technology areas:
 
 ---
 
-## 🏢 Professional Experience
+## Professional Experience
 
 ### AI Quality Rater – Machine Learning
 **TELUS Digital AI** <br>
@@ -104,7 +104,7 @@ Main responsibilities:
 
 --- 
 
-## 📜 Certifications
+## Certifications
 Highlighted certifications:
 
 - **Applied AI Engineering Certificate – Honors, CodePath (curriculum co-developed with Claude)**
@@ -113,7 +113,7 @@ Highlighted certifications:
 
 --- 
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### Aegis Forensic Assistant
 AI-powered SOC platform for automated incident analysis, integrating GPT-4o-mini and OpenAI embeddings to generate incident summaries, with a calibrated Random Forest model (91.8% accuracy) classifying 10+ MITRE ATT&CK attack patterns. 
@@ -132,7 +132,7 @@ Fully virtualized lab environment on Proxmox VE running Windows Server (AD/DNS/D
   
 ---
 
-## 🔐 Cybersecurity & SOC
+## Cybersecurity & SOC
 - MITRE ATT&CK-based attack classification
 - SIEM monitoring and log aggregation (Splunk)
 - Incident response (Identify → Contain → Recover)
@@ -144,7 +144,7 @@ Fully virtualized lab environment on Proxmox VE running Windows Server (AD/DNS/D
   
 ---
 
-## 🤖 AI & ML
+## AI & ML
 - OpenAI API integration (GPT-4o, GPT-4o-mini)
 - Retrieval-Augmented Generation (RAG) and embeddings
 - Agentic workflows and lightweight fine-tuning
@@ -154,7 +154,7 @@ Fully virtualized lab environment on Proxmox VE running Windows Server (AD/DNS/D
 
 ---
 
-## 🧩 Backend Engineering
+## Backend Engineering
 - Python
 - Flask
 - FastAPI
@@ -167,7 +167,7 @@ Fully virtualized lab environment on Proxmox VE running Windows Server (AD/DNS/D
   
 ---
 
-## 🎓 Education
+## Education
 
 ### Bachelor of Science – Computer Science
 **Lander University** <br>
@@ -176,7 +176,7 @@ Fully virtualized lab environment on Proxmox VE running Windows Server (AD/DNS/D
 
 ---
 
-## 🏆 Awards & Athletics
+## Awards & Athletics
 - Summa Cum Laude, Golden L, President's List – Lander University
 - NCAA Division I Rugby – Southern Rugby Conference All-Stars Champion
 - NCAA Division I Rugby – International Rugby 7s Champion
@@ -184,7 +184,7 @@ Fully virtualized lab environment on Proxmox VE running Windows Server (AD/DNS/D
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I am open to collaborating on:
 
