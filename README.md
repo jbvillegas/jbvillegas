@@ -94,7 +94,7 @@ Main responsibilities:
 
 ### Student IT Administrator
 **Lander University**<br>
-*Jun 2025 - May 2026 · Greenwood, South Carolina, United States of America*
+*May 2025 - May 2026 · Greenwood, South Carolina, United States of America*
 
 - Provided first-level IT support and system administration for a 3,200+ user campus environment.
 - Resolved 30–40 tickets/week (hardware, software, network) with 90%+ first-contact resolution
