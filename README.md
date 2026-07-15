@@ -27,9 +27,9 @@ I recently completed my **B.Sc. in Computer Science (Summa Cum Laude)** with a C
 Core technology areas:
 
 - **AI/ML engineering:** OpenAI API, GPT-4o, embeddings, RAG, agentic workflows, lightweight fine-tuning, Random Forest classification, kNN, PCA, regularization
-- **Cybersecurity:** SIEM, Splunk, IDS/IPS, Wireshark, MITRE ATT&CK, incident response, vulnerability scanning, RBAC, AWS cloud security
+- **Cybersecurity:** SIEM (Wazuh, Splunk), IDS/IPS, Wireshark, MITRE ATT&CK, incident response, vulnerability scanning, RBAC, AWS cloud security
 - **Backend & full-stack:** Python, Flask, React, FastAPI, PostgreSQL, Docker, REST APIs
-- **Infrastructure & networking:** VMware Proxmox VE, Windows Server (AD, DNS, DHCP), pfSense, VPN (OpenVPN, WireGuard), TCP/IP, subnetting\Security architecture: secure product integration, compliance automation, access control, risk management and AI-driven product security
+- **Infrastructure & networking:** UTM (Apple Silicon virtualization), pfSense, WireGuard VPN, Windows Server (AD, DNS, DHCP), TCP/IP, subnetting
 - **Security architecture:** secure product integration, compliance automation, access control, risk management and AI-driven product security
 
 **Backend and data**
@@ -48,7 +48,7 @@ Core technology areas:
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-**Linux, infraestructure, virtualization and networking**
+**Linux, infrastructure, virtualization and networking**
 
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
@@ -90,7 +90,7 @@ Main responsibilities:
 - Identified and documented 15–20 edge cases per month for data-science teams
 - Maintained 90%+ inter-rater reliability across calibration sessions spanning 4+ time zones
 - Rated search results for relevance, authority, and freshness, shaping UX for millions of users
-- Analyzed culturally and linguistically ambiguous queries, contributing to 3+ guideline updates
+- Analyzed culturally and linguistically ambiguous queries with 95% accuracy on ambiguous guidelines, contributing to 3+ guideline updates
 
 ### Student IT Administrator
 **Lander University**<br>
@@ -99,7 +99,7 @@ Main responsibilities:
 - Provided first-level IT support and system administration for a 3,200+ user campus environment.
 - Resolved 30–40 tickets/week (hardware, software, network) with 90%+ first-contact resolution
 - Administered Windows/macOS, Microsoft 365, Active Directory, campus WLAN, and LMS
-- Maintained knowledge base and asset inventory for 200+ devices
+- Maintained knowledge base and asset inventory for 200+ devices as part of a 6-person support team
 - Trained incoming student staff using self-authored materials
 
 --- 
@@ -110,16 +110,17 @@ Highlighted certifications:
 - **Applied AI Engineering Certificate – Honors, CodePath (curriculum co-developed with Claude)**
 - **Intermediate Cybersecurity – Honors, CodePath (curriculum co-developed with Meta)**
 - **Data Science: Machine Learning (PH125.8x), HarvardX**
+- **CompTIA Security+ (SY0-701) – in progress**
 
 --- 
 
 ## Featured Projects
 
 ### Aegis Forensic Assistant
-AI-powered SOC platform for automated incident analysis, integrating GPT-4o-mini and OpenAI embeddings to generate incident summaries, with a calibrated Random Forest model (91.8% accuracy) classifying 10+ MITRE ATT&CK attack patterns. 
+AI-powered SOC platform for automated incident analysis, integrating GPT-4o-mini and OpenAI embeddings with pgvector retrieval to generate incident summaries, with a calibrated Random Forest model (150 estimators, TF-IDF bigrams, 91.8% accuracy) classifying 10+ MITRE ATT&CK attack patterns. Built RBAC authentication, structured incident logging, and a RESTful API across 8 database migrations; deployed on Vercel with Supabase and GitHub OAuth.
 
 ### IT Homelab
-Fully virtualized lab environment on Proxmox VE running Windows Server (AD/DNS/DHCP), pfSense firewall with VPN, Splunk log aggregation, and Microsoft SQL Server, fully documented in a private wiki. 
+Virtualized homelab on Apple Silicon (UTM), running pfSense with WireGuard VPN and a Wazuh SIEM stack. Rebuilt from an earlier VMware ESXi/Proxmox-based lab (Windows Server AD/DNS/DHCP, Splunk, SQL Server) after a firewall/network audit found misconfigurations, including an exposed RDP port-forward — remediated with a VPN-based access model. Fully documented in a private wiki, with PowerShell (AD bulk user provisioning) and T-SQL (backup/restore job) automation scripts.
 
 ---
 
@@ -134,7 +135,7 @@ Fully virtualized lab environment on Proxmox VE running Windows Server (AD/DNS/D
 
 ## Cybersecurity & SOC
 - MITRE ATT&CK-based attack classification
-- SIEM monitoring and log aggregation (Splunk)
+- SIEM monitoring and log aggregation (Wazuh, Splunk)
 - Incident response (Identify → Contain → Recover)
 - Network traffic analysis (Wireshark), IDS/IPS configuration
 - Vulnerability scanning and directory-traversal/FTP exploit analysis
@@ -181,6 +182,13 @@ Fully virtualized lab environment on Proxmox VE running Windows Server (AD/DNS/D
 - NCAA Division I Rugby – Southern Rugby Conference All-Stars Champion
 - NCAA Division I Rugby – International Rugby 7s Champion
 - NCAA Division I Rugby – Worcester Rugby 7s Champion
+
+---
+
+## Languages
+- English: Fluent (C2)
+- Spanish: Native
+- German: A2, actively studying (targeting B2)
 
 ---
 
